@@ -4,8 +4,8 @@ This C program implements a simple calculator that performs basic arithmetic ope
 * Multiplication
 * Division
 * Power
-* Square Root<br>
-How to Use:<br>
+* Square Root
+<br>How to Use:<br>
 1. Complile<br>
 2. Run<br>
 3. Select Operation:<br>
